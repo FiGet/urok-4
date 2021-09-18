@@ -10,8 +10,7 @@ public class Test1 {
             System.out.println("Число четное");
         else
             System.out.println("Число нечетное");
-
-        //задание 10
+    //задание 10
         Scanner scanner1 = new Scanner(System.in);
         System.out.print("Ввведите номер дня недели: ");
         int den = scanner1.nextInt();
