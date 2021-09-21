@@ -13,8 +13,8 @@ public class Test1 {
     //задание 10
         Scanner scanner1 = new Scanner(System.in);
         System.out.print("Ввведите номер дня недели: ");
-        int den = scanner1.nextInt();
-        switch (den) {
+        int day = scanner.nextInt();
+        switch (day) {
             case 1:
                 System.out.print("День недели - понедельник");
                 break;
